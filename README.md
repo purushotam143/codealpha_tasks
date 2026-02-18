@@ -29,7 +29,8 @@ Run:
 java StudentGradeTrackerGUI
 
 ## 📷 Output Screenshot
-![Output](output.png)
+<img width="781" height="678" alt="image" src="https://github.com/user-attachments/assets/60430b42-829b-41c0-974f-9c4e5fcaf3e6" />
+
 
 ## 👨‍💻 Designed By
 Purushotam Sharma
